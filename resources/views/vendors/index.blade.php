@@ -52,6 +52,10 @@
 
 		<div class="col-md-8">
 			<h1 class="pl-3 mt-4">Dashboard</h1>
+			<!-- Events Booked card -->
+			<!-- Payment Due card -->
+			<!-- Bookings this month cars -->
+			<!-- Recent Payments -->
 
 
 		</div>

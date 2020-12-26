@@ -19,7 +19,8 @@ class CreateVendorsTable extends Migration
             $table->string('name');
             $table->string('address_id');
             $table->string('email')->unique();
-            $table->string('password');        });
+            $table->string('password');        
+        });
     }
 
     /**

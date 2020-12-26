@@ -1,4 +1,4 @@
-@extends('layouts.head')
+$@extends('layouts.head')
 
 <div class="container">
     <div class="row justify-content-center">
